@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DarshanBothra
 - 👀 I’m interested in Coding, Gaming, Science
-- 🌱 I’m currently learning Python, C ++, Java
-- 💞️ I’m looking to collaborate on nothing for now :)
+- 🌱 I’m currently learning ML and AI
 - 📫 How to reach me twitter @DarshanBothra6 (DM)
 
 <!---
