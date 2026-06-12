@@ -12,3 +12,6 @@ Code is just 1's and 0's the real magic is how you combine them
 - **Databases:** NoSQL, MySQL, MongoDB
 - **Tools & Platforms:** Git, GitHub, AWS, Cloud Computing, GenAI Tools
 - **Relevant Coursework:** Discrete Maths, Algorithm Design, DBMS, Statistical Machine Learning
+
+### **More About ME**
+https://darshanbothra.vercel.app/
